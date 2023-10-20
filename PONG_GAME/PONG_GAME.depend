@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697810285 source:/home/bossmonster/Documents/Jason Douma SCS4U/PONG_GAME/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
